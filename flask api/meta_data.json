@@ -1,0 +1,44 @@
+{
+    "Meta_DB_Extractor": [
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "_id",
+            "Data_type": "<class 'bson.objectid.ObjectId'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"Date\"",
+            "Data_type": "<class 'str'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"Open\"",
+            "Data_type": "<class 'str'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"High\"",
+            "Data_type": "<class 'str'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"Low\"",
+            "Data_type": "<class 'str'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"Close\"",
+            "Data_type": "<class 'str'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"Shares Traded\"",
+            "Data_type": "<class 'str'>"
+        },
+        {
+            "Tab_name": "Latest_Stock_Data",
+            "Col_name": "\"Turnover (Rs Cr)\"",
+            "Data_type": "<class 'str'>"
+        }
+    ]
+}
